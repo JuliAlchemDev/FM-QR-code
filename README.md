@@ -9,8 +9,8 @@ My first challenge on [Frontend Mentor](https://www.frontendmentor.io)  marked t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JuliAlchemDev/FM-QR-code?tab=readme-ov-file)
-- Live Site URL: [Add live site URL here](https://frontendm-qr-code-julialchem.netlify.app)
+- Solution URL: [GitHub](https://github.com/JuliAlchemDev/FM-QR-code?tab=readme-ov-file)
+- Live Site URL: [Netlify](https://frontendm-qr-code-julialchem.netlify.app)
 
 ## My process
 
